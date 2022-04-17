@@ -1,0 +1,14 @@
+{
+    "all": [
+      {
+        "fact": "age",
+        "operator": "greaterThan",
+        "value": 65
+      }, 
+      {
+        "fact": "age",
+        "operator": "lessThanInclusive",
+        "value": 70
+      }
+    ]
+  }

@@ -1,0 +1,9 @@
+{
+    "all": [
+      {
+        "fact": "age",
+        "operator": "greaterThan",
+        "value": 70
+      }
+    ]
+  }
